@@ -1,0 +1,16 @@
+.fisl {
+    background: #00BECB;
+    padding-top: .05%;
+    padding-bottom: .05%;
+    text-align: center;
+    margin-bottom: -2%;
+}
+
+.side-logo {
+    width: 100%;
+}
+
+h4 {
+    font-weight: 200;
+    line-height: 1.2em;
+}
