@@ -1,5 +1,5 @@
-# Hackerfeminismo e o emponderamento tecnológico
-Sites com foco a emponderar mulheres em tecnologia
+# Hackerfeminismo e o empoderamento tecnológico
+Sites com foco a empoderar mulheres em tecnologia
 
 Apresentação montada para o 17º Fórum Internacional de Software Livre.
 
